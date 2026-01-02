@@ -1,0 +1,9 @@
+graph.facebook.com
+graph.facebook.net
+analytics.facebook.com
+connect.facebook.net
+pixel.facebook.com
+ads.facebook.com
+
+events.facebook.com
+logging.facebook.com
