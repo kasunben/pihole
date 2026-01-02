@@ -1,0 +1,32 @@
+# OpenAI
+
+events.statsigapi.net
+oai-telemetry.openai.com
+
+# chat.openai.com.cdn.cloudflare.net
+
+# Google AI / Gemini
+
+ai.googleusercontent.com
+generativelanguage-pa.googleapis.com
+app-measurement.com
+
+# Microsoft / Copilot / Azure AI
+
+copilot-telemetry.microsoft.com
+vortex.data.microsoft.com
+
+# Meta AI
+
+ai.facebook.com
+analytics.facebook.com
+
+# Anthropic (Claude)
+
+telemetry.anthropic.com
+stats.anthropic.com
+
+# Hugging Face (telemetry only)
+
+telemetry.huggingface.co
+hf-metrics.com
