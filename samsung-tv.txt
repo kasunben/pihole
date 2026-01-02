@@ -1,0 +1,29 @@
+# Ads & monetization
+samsungads.com
+ads.samsung.com
+ads.samsungads.com
+config.samsungads.com
+samsungads.com
+samsungtvads.com
+
+# Telemetry / tracking / ACR
+metrics.samsung.com
+log-ingestion.samsung.com
+log-config.samsungacr.com
+samsungacr.com
+samsungcloudsolution.com
+
+# Smart Hub noise
+notice.samsungcloudsolution.com
+osb-apps.samsungqbe.com
+gpm.samsungqbe.com
+samsungqbe.com
+
+(^|\.)samsungads\.com$
+(^|\.)samsungacr\.com$
+(^|\.)samsungcloudsolution\.com$
+(^|\.)samsungqbe\.com$
+(^|\.)samsungtvads\.com$
+
+otn.samsungcloudsolution.com
+downloadcenter.samsung.com
