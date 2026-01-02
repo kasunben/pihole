@@ -1,0 +1,10 @@
+clients4.google.com
+clients2.google.com
+clients6.google.com
+app-measurement.com
+firebase-settings.crashlytics.com
+firebaseinstallations.googleapis.com
+
+ssl.google-analytics.com
+analytics.google.com
+www.google-analytics.com
