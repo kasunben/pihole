@@ -1,3 +1,4 @@
+# Facebook/Meta tracking & telemetry (may affect "Login with Facebook" widgets)
 graph.facebook.com
 graph.facebook.net
 analytics.facebook.com
@@ -5,5 +6,6 @@ connect.facebook.net
 pixel.facebook.com
 ads.facebook.com
 
+# Optional (aggressive)
 events.facebook.com
 logging.facebook.com

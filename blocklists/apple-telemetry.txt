@@ -1,3 +1,4 @@
+# Apple analytics/diagnostics (avoid breaking iCloud/push)
 metrics.apple.com
 metrics.icloud.com
 diagnostics.apple.com
