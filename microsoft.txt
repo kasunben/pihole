@@ -1,0 +1,14 @@
+vortex.data.microsoft.com
+vortex-win.data.microsoft.com
+telemetry.microsoft.com
+telemetry.appex.bing.net
+telemetry.appex.bing.com
+settings-win.data.microsoft.com
+sqm.microsoft.com
+watson.telemetry.microsoft.com
+watson.ppe.telemetry.microsoft.com
+watson.live.com
+
+oca.telemetry.microsoft.com
+reports.wes.df.telemetry.microsoft.com
+cs1.wpc.v0cdn.net
