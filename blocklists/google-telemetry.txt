@@ -1,12 +1,12 @@
 # Google telemetry (safe-ish baseline; avoids breaking auth)
-clients4.google.com
-clients2.google.com
-clients6.google.com
 app-measurement.com
+clients2.google.com
+clients4.google.com
+clients6.google.com
 firebase-settings.crashlytics.com
 firebaseinstallations.googleapis.com
 
 # Google analytics
-ssl.google-analytics.com
 analytics.google.com
+ssl.google-analytics.com
 www.google-analytics.com

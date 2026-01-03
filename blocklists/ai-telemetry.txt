@@ -7,8 +7,8 @@ oai-telemetry.openai.com
 
 # Google AI / Gemini related telemetry signals
 ai.googleusercontent.com
-generativelanguage-pa.googleapis.com
 app-measurement.com
+generativelanguage-pa.googleapis.com
 
 # Microsoft Copilot / related telemetry (non-core)
 copilot-telemetry.microsoft.com
@@ -19,9 +19,9 @@ ai.facebook.com
 analytics.facebook.com
 
 # Anthropic telemetry / analytics (non-core)
-telemetry.anthropic.com
 stats.anthropic.com
+telemetry.anthropic.com
 
 # Hugging Face telemetry / metrics (non-core)
-telemetry.huggingface.co
 hf-metrics.com
+telemetry.huggingface.co
