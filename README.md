@@ -63,7 +63,8 @@ Docker:
 ```
 docker exec -it pihole pihole -g
 
-docker exec -it pihole pihole -t # Watch live DNS queries
+# Run this instead if you want to watch live DNS queries
+docker exec -it pihole pihole -t
 ```
 
 ## Tools
@@ -81,13 +82,14 @@ Usage:
 ./tools/validate_lists.sh
 ```
 
-### tools/normalize.sh
+### `tools/normalize.sh`
 
 Optional helper to:
 - Deduplicate domains
 - Sort entries
 - Preserve header comments
 
+> [!CAUTION]
 > This script rewrites files. Use only if you understand what it does.
 
 Usage:
